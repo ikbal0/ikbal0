@@ -35,7 +35,7 @@ I am really love to code and learning about programming.
 
 <br/>
 <!-- nestjs -->
-<a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/nest.svg" alt="nestjs"></a>
+<a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs"></a>
 
 <br/>
 
