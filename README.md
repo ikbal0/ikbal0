@@ -9,12 +9,10 @@ I am really love to code and learning about programming.
 ### :boy: About Me
 #
 
-- :office: I’m currently Looking for Job.
-- 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
-- 🤝 I’m available for freelancing.
-- :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about
-  programming.
-- 📫 How to reach me **dsorn2@gmail.com**
+- 🏢 I’m currently Looking for Job.
+- 🌱 I’m currently Exploring Backend Developer (Golang and Nodejs)
+- 🤝 I’m available for work.
+- 📫 How to reach me **ikbal.ytaufik001@gmail.com**
 - 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf" target="blank">
   Resume</a>
 
