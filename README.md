@@ -23,23 +23,23 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- js -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"></a>
+<a margin="20" href="https://github.com/ikbal0/kelas-online.git" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"></a>
 <!-- bootstrap -->
-<a margin="20" href="https://getbootstrap.com" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap"></a>
+<a margin="20" href="https://github.com/ikbal0/kelas-online.git" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap"></a>
 
 <br/>
 <!-- nodejs -->
-<a margin="20" href="https://nodejs.org" target="_blank"><img margin="20px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs"></a>
+<a margin="20" href="https://github.com/ikbal0/server-test-backend.git" target="_blank"><img margin="20px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs"></a>
 
 <br/>
 <!-- nestjs -->
-<a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs"></a>
+<a margin="20" href="https://github.com/ikbal0/kelas-online.git" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs"></a>
 <!-- golang -->
-<a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang"></a>
+<a margin="20" href="https://github.com/ikbal0/insta-clone-myGram-.git" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang"></a>
 
 <br/>
 <!-- express -->
-<a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express"></a>
+<a margin="20" href="https://github.com/ikbal0/server-test-backend.git" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express"></a>
 
 <br/>
 <br/>
@@ -56,11 +56,11 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- MongoDB -->
-<a margin="20" href="https://www.mongodb.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/mongo.png" alt="mongo"></a>
+<a margin="20" href=https://github.com/ikbal0/kelas-online.git" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/mongo.png" alt="mongo"></a>
 <!-- Mysql -->
-<a margin="20" href="https://www.mysql.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/mysql.jpeg" alt="mysql"></a>
+<a margin="20" href="https://github.com/ikbal0/server-test-backend.git" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/mysql.jpeg" alt="mysql"></a>
 <!-- Postgres -->
-<a margin="20" href="https://www.postgresql.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/postgres.jpeg" alt="postgres"></a>
+<a margin="20" href="https://github.com/ikbal0/insta-clone-myGram-.git" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/postgres.jpeg" alt="postgres"></a>
 <br/>
 <div/>
 <br/>
