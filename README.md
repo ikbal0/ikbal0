@@ -39,7 +39,7 @@ I am really love to code and learning about programming.
 
 <br/>
 <!-- express -->
-<a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express"></a>
+<a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="30" src="https://icons8.com/icon/9Gfx4Dfxl0JK/express-js" alt="express"></a>
 
 <br/>
 <br/>
