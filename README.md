@@ -9,7 +9,7 @@ I am really love to code and learning about programming.
 ### :boy: About Me
 #
 
-- :office: I’m currently Looking for [Job].
+- :office: I’m currently Looking for Job.
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
 - 🤝 I’m available for freelancing.
 - :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about
