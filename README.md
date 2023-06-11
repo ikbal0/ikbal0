@@ -1,5 +1,5 @@
 <h1 align="center">Hi Geeks, I'm Ikbal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 I am really love to code and learning about programming.
 
 <a target="_blank" align="center">
@@ -35,7 +35,7 @@ I am really love to code and learning about programming.
 
 <br/>
 <!-- nestjs -->
-<a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs"></a>
+<i class="devicon-nextjs-original-wordmark"></i>
 
 <br/>
 
