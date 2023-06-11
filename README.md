@@ -13,7 +13,7 @@ I am really love to code and learning about programming.
 - 🌱 I’m currently Exploring Backend Developer (Golang and Nodejs)
 - 🤝 I’m available for work.
 - 📫 How to reach me **ikbal.ytaufik001@gmail.com**
-- 📄 Know about my experiences <a href="https://github.com/ikbal0/ikbal0/blob/test/Sertifikat_Ikbal%20yaduar%20taupik_Scalable%20Web%20Service%20with%20Golang.pdf" target="blank">
+- 📄 Know about my Skill <a href="https://github.com/ikbal0/ikbal0/blob/test/Sertifikat_Ikbal%20yaduar%20taupik_Scalable%20Web%20Service%20with%20Golang.pdf" target="blank">
   Certificate</a>
 
 ### :open_book: Skills 
@@ -22,50 +22,21 @@ I am really love to code and learning about programming.
 📋 Languages and Framework:
 <br/>
 <br/>
-<!-- html -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<!-- css -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
 <!-- js -->
 <a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
 <!-- bootstrap -->
 <a margin="20" href="https://getbootstrap.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
-<!-- saas -->
-<a margin="20" href="https://sass-lang.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
 
 <br/>
-<!-- react -->
-<a margin="20" href="https://reactjs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<!-- mat-ui -->
-<a margin="20" href="https://mui.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
 <!-- nodejs -->
 <a margin="20" href="https://nodejs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 <!-- express -->
 <a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
-<!-- ts -->
-<a margin="20" href="https://www.typescriptlang.org" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Typescript_logo_2020-svg.png" alt="ts"></a>
 
 <br/>
-<!-- java -->
-<a margin="20" href="https://www.java.com/en/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/java.png" alt="java"></a>
-<!-- springboot -->
-<a margin="20" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/spring.png" alt="springboot"></a>
 <!-- nestjs -->
 <a margin="20" href="https://nestjs.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/nest.svg" alt="nestjs"></a>
-<!-- python -->
-<a margin="20" href="https://www.python.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/python.png" alt="python"></a>
-<!-- C# -->
-<a margin="20" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Csharp.png" alt="c#"></a>
 
-<br/>
-<!-- R -->
-<a margin="20" href="https://www.r-project.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/r.png" alt="R"></a>
-<!-- kotlin -->
-<a margin="20" href="https://kotlinlang.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kotlin.png" alt="kotlin"></a>
-<!-- Shell Script -->
-<a margin="20" href="https://www.shellscript.sh/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/sh.png" alt="sh"></a>
-<!-- Linux -->
-<a margin="20" href="https://www.linux.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/linux.png" alt="linux"></a></div>
 <br/>
 
 <div/>
