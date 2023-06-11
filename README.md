@@ -45,7 +45,7 @@ I am really love to code and learning about programming.
 <!-- Github -->
 <a margin="20" href="https://github.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/github.png" alt="github"></a>
 <br/>
-
+<br/>
 <div/>
 💾 Databases:
 <br/>
