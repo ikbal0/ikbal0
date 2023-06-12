@@ -1,6 +1,6 @@
 <h1 align="center">Hi Geeks, I'm Ikbal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<center>I am really love to code and learning about programming.</center>
+<p align="center">I am really love to code and learning about programming.</p>
 
 <a target="_blank" align="center">
   <img  top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/ojvGzDGhAtAAAAAd/enjoying-music-music.gif">
