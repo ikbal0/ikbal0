@@ -2,9 +2,9 @@
 
 <p align="center">I am really love to code and learning about programming.</p>
 
-<a target="_blank" align="center">
+<div align="center">
   <img  top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/ojvGzDGhAtAAAAAd/enjoying-music-music.gif">
-</a>
+</div>
 
 ### :boy: About Me
 #
