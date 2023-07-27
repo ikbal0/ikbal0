@@ -17,6 +17,7 @@
   Certificate</a>
 
 ### :open_book: Skills 
+backend developer and full stack developer enthusiast. Currently, use [Golang](https://github.com/ikbal0/insta-clone-myGram-.git) and [Javascript](https://github.com/ikbal0/kelas-online.git) for development. Im also familiar with [kubernetes](https://github.com/ikbal0/kubernetes-mongo-configuration/blob/main/README.md)
 #
 <div/>
 📋 Languages and Framework:
