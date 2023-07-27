@@ -34,7 +34,6 @@
 <br/>
 <!-- nestjs -->
 <a margin="20" href="https://github.com/ikbal0/kelas-online.git" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs"></a>
-<br/>
 <!-- golang -->
 <a margin="20" href="https://github.com/ikbal0/insta-clone-myGram-.git" target="_blank"><img margin="20px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang"></a>
 
